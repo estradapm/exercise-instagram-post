@@ -1,5 +1,5 @@
 <!-- hide -->
-# El Post de Instagram 
+# Instagram Post
 <!-- endhide -->
 
 Instagram es una de las interfaces de usuarios más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com
@@ -26,7 +26,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 ## Estrategia
 
-Comienza por identificar que `<tags>` (etiquetas) HTML puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
+Comienza por identificar qué `<tags>` (etiquetas) HTML puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
 
 Aquí tienes una pista de una buena estrategia:
 
